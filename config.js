@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: '#'
+      url: 'https://www.lllvlll.com'
     },
     {
       text: '博客',
-      url: 'https://www.l0u0l.com/'
+      url: 'https://www.l0u0l.com'
     },
     {
       text: 'GitHub',
